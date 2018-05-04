@@ -14,13 +14,15 @@
 * limitations under the License.
 */
 
-package com.example.android.classicalmusicquiz;
+package io.monteirodev.classicalmusicquiz;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
+
+import com.example.android.classicalmusicquiz.R;
 
 public class MainActivity extends AppCompatActivity {
 

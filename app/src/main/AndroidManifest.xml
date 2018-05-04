@@ -22,17 +22,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="io.monteirodev.classicalmusicquiz.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".QuizActivity"
+        <activity android:name="io.monteirodev.classicalmusicquiz.QuizActivity"
             android:launchMode="singleTop"/>
         <!-- TODO (3): Create a receiver tag for the receiver you create in QuizActivity. Add an Intent Filter for the MEDIA_BUTTON intent. -->
-        <receiver android:name=".QuizActivity$MediaReceiver">
+        <receiver android:name="io.monteirodev.classicalmusicquiz.QuizActivity$MediaReceiver">
             <intent-filter>
                 <action android:name="android.intent.action.MEDIA_BUTTON" />
             </intent-filter>

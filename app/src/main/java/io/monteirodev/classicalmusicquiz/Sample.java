@@ -1,4 +1,4 @@
-package com.example.android.classicalmusicquiz;
+package io.monteirodev.classicalmusicquiz;
 
 /*
 * Copyright (C) 2017 The Android Open Source Project

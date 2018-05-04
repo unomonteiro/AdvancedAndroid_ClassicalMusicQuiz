@@ -14,7 +14,7 @@
 * limitations under the License.
 */
 
-package com.example.android.classicalmusicquiz;
+package io.monteirodev.classicalmusicquiz;
 
 import android.content.Context;
 import android.content.Intent;

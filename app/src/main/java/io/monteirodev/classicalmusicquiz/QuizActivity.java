@@ -14,7 +14,7 @@
 * limitations under the License.
 */
 
-package com.example.android.classicalmusicquiz;
+package io.monteirodev.classicalmusicquiz;
 
 import android.app.NotificationManager;
 import android.app.PendingIntent;

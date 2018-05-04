@@ -1,4 +1,4 @@
-package com.example.android.classicalmusicquiz;
+package io.monteirodev.classicalmusicquiz;
 
 import org.junit.Test;
 

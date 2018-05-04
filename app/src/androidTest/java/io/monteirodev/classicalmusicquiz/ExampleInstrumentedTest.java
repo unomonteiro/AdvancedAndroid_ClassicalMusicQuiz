@@ -1,4 +1,4 @@
-package com.example.android.classicalmusicquiz;
+package io.monteirodev.classicalmusicquiz;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
